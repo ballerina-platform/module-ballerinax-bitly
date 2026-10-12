@@ -2,13 +2,12 @@
 
 The `ballerinax/bitly` connector provides practical examples illustrating usage in various scenarios.
 
-[//]: # (TODO: Add examples)
-1. 
-2. 
+1. [short_link_lifecycle](./short_link_lifecycle/short_link_lifecycle.md) - Create a Bitlink, tag it and read its click summary.
+2. [group_link_analytics](./group_link_analytics/group_link_analytics.md) - List the Bitlinks of a group and report the top countries for each.
 
 ## Prerequisites
 
-[//]: # (TODO: Add prerequisites)
+Create a Bitly access token as described in the connector README, and add it to a `Config.toml` in the example directory.
 
 ## Running an example
 
